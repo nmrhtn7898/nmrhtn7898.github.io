@@ -10,7 +10,7 @@ tags: [jekyll, github, markdown]
 
 1. 자바 소스 테스트
 
-```java
+```aidl
 @SpringBootApplication
 @EnableConfigServer
 public class ConfigServerApplication {
