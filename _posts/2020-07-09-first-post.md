@@ -6,8 +6,6 @@ category: test
 
 # 개발 블로그 테스트중입니다.   
 
-1. 자바 소스 테스트
-
 ```java
 @SpringBootApplication
 @EnableConfigServer
