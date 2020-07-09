@@ -1,16 +1,15 @@
 remote_theme : mmistakes/minimal-mistakes
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-title:              Clean Blog
-email:              nmrhtn7898@naver.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              "Nuguri's Develop Blog"
+email:              "nmrhtn7898@naver.com"
+description:        "Develop Blog"
+author:             "Sin Young Jin"
 baseurl:            ""
 url:                "https://nmrhtn7898.github.io"
 
 # Social Profiles
 github_username:    nuguri
-facebook_username:  StartBootstrap
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
