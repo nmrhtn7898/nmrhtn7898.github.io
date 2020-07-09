@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 개발 블로그 테스트
+title: "개발 블로그 테스트"
+data: 2020-07-09 22:53:00
 category: test
 ---
 
@@ -8,7 +9,7 @@ category: test
 
 1. 자바 소스 테스트
 
-```aidl
+```java
 @SpringBootApplication
 @EnableConfigServer
 public class ConfigServerApplication {
