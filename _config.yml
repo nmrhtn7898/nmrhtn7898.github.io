@@ -1,15 +1,16 @@
+remote_theme : mmistakes/minimal-mistakes
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 title:              Clean Blog
-email:              your-email@example.com
+email:              nmrhtn7898@naver.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+baseurl:            ""
+url:                "https://nmrhtn7898.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
+github_username:    nuguri
 facebook_username:  StartBootstrap
-instagram_username:  
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
