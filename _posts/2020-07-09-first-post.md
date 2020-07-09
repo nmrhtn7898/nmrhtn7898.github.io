@@ -2,8 +2,6 @@
 layout: post
 title: 개발 블로그 테스트
 category: test
-comments: true
-tags: [jekyll, github, markdown]
 ---
 
 # 개발 블로그 테스트중입니다.   
