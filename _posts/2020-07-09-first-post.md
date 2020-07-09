@@ -7,7 +7,7 @@ categories: test
 # 개발 블로그 테스트중입니다.   
 
 1. 자바 소스 테스트
-```
+```java
 @SpringBootApplication
 @EnableConfigServer
 public class ConfigServerApplication {
@@ -18,3 +18,7 @@ public class ConfigServerApplication {
 
 }
 ```
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
