@@ -1,9 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "Jekyll Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Git"
+    url: https://github.com/nmrhtn7898
+#   - title: "About"
+#     url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
