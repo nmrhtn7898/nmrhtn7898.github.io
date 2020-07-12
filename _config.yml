@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Sin Young Jin"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg" 프로필 사진
+  avatar           : "/assets/images/500x300.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg" 프로필 사진
   bio              : "평범한 개발자" # 이름 아래 나타날 자신의 설명
   location         : # "Somewhere" 주소
   email            : # "nmrhtn7898@naver.com" 이메일 하단의 링크 이메일과 중복됨
