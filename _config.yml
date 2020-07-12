@@ -25,7 +25,7 @@ url                      : "https://nmrhtn7898.github.io"
 baseurl                  : ""
 repository               : "nmrhtn7898/nmrhtn7898.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/500x300.png" # 글에 같이 노출되는 티저 이미지 "/assets/images/500x300.png"
-logo                     : "/assets/images/500x300.png" # 최상단 좌측에 노출되는 로고 이미지 e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/nuguri.jpg" # 최상단 좌측에 노출되는 로고 이미지 e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Sin Young Jin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg" 프로필 사진
-  bio              : "*^^*" # 이름 아래 나타날 자신의 설명
+  bio              : "평범한 개발자" # 이름 아래 나타날 자신의 설명
   location         : # "Somewhere" 주소
   email            : # "nmrhtn7898@naver.com" 이메일 하단의 링크 이메일과 중복됨
   links:
@@ -121,14 +121,14 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/nmrhtn7898"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
@@ -241,10 +241,10 @@ whitelist:
 #  - <base_path>/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
-  path: /category
+  path: /categories/ #포스트에서 카테고리 노출 여부
 tag_archive:
   type: liquid
-  path: /tags/
+  path: /tags/ #포스트에서 태그 노출 여부
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
@@ -274,8 +274,8 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: # true 좌측 상단에 프로필 뜨는지 여부 false(default)
-      read_time: # true 해당 글을 읽은 시간이 표시되는지 여부 ?
+      author_profile: true # true 좌측 상단에 프로필 뜨는지 여부 false(default)
+      read_time: true # true 해당 글을 읽은 시간이 표시되는지 여부 ?
       comments: # true
       share: # true
       related: true # 글 밑에 연관 글 목록 노출 여부
